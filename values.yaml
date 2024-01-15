@@ -1,7 +1,0 @@
-environment: development
-container:
-  name: nginx
-  port: 80
-  image: nginx
-  tag: latest
-replicas: 2
